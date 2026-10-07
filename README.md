@@ -15,7 +15,7 @@ built-in countdown, Start/Reset controls, and checkmarks that track completed wo
 ## Requirements
 
 - Python 3.x with Tkinter
-  - Windows/macOS official installers: included
+  - Windows/macOS official installers: include with installation
   - Debian/Ubuntu: `sudo apt install python3-tk`
 - `tomato.png` (included in this repository)
 
@@ -23,7 +23,7 @@ built-in countdown, Start/Reset controls, and checkmarks that track completed wo
 
 ```bash
 git clone https://github.com/dazeous/pomodoro.git
-cd <your-repo>
+cd pomodoro
 python main.py
 ```
 
