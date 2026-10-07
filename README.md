@@ -22,23 +22,23 @@ built-in countdown, Start/Reset controls, and checkmarks that track completed wo
 ## Getting started
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo>.git
+git clone https://github.com/dazeous/pomodoro.git
 cd <your-repo>
 python main.py
 ```
 
 ## How it works
 
-| Rep | Session       | Duration |
-|-----|---------------|----------|
-| 1   | Work          | 25 min   |
-| 2   | Short break   | 5 min    |
-| 3   | Work          | 25 min   |
-| 4   | Short break   | 5 min    |
-| 5   | Work          | 25 min   |
-| 6   | Short break   | 5 min    |
-| 7   | Work          | 25 min   |
-| 8   | Long break    | 20 min   |
+| Rep | Session     | Duration |
+| --- | ----------- | -------- |
+| 1   | Work        | 25 min   |
+| 2   | Short break | 5 min    |
+| 3   | Work        | 25 min   |
+| 4   | Short break | 5 min    |
+| 5   | Work        | 25 min   |
+| 6   | Short break | 5 min    |
+| 7   | Work        | 25 min   |
+| 8   | Long break  | 20 min   |
 
 After the long break the cycle repeats from rep 1.
 
